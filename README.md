@@ -1,5 +1,25 @@
-[## Hi there 👋](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical
-)
+# Olá, eu sou [Thiago Quixaba Campos de Macedo]!
+
+👋 Olá! Sou estudante de Informática no segundo ano do ensino médio no IFPI. Estou animado para aprender e explorar o mundo da programação e tecnologia!
+
+## Sobre Mim
+
+- 🎓 Estudante de Informática no IFPI.
+- 💻 Atualmente aprendendo Python, JavaScript e Frameworks.
+
+## Habilidades
+
+- Linguagens de programação: Python, Java, JavaScript, C.
+
+## Contato
+
+- 📧 Email: thigasquixaba@gmail.com
+
+### Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical)
+
+
 
 <!--
 **ThiagoQuixaba/ThiagoQuixaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
