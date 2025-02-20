@@ -1,7 +1,3 @@
-# Olá, eu sou [Thiago Quixaba Campos de Macedo]!
-
-👋 Olá! Sou estudante de Informática no segundo ano do ensino médio no IFPI. Estou animado para aprender e explorar o mundo da programação e tecnologia!
-
 ## Sobre Mim
 
 - 🎓 Estudante de Informática no IFPI.
@@ -11,13 +7,13 @@
 
 - Linguagens de programação: Python, Java, JavaScript, C.
 
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical)
+
 ## Contato
 
 - 📧 Email: thigasquixaba@gmail.com
-
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical)
 
 
 
