@@ -5,7 +5,7 @@
 
 ## Habilidades
 
-- Linguagens de programação: Python, Java, JavaScript, Mode, Flask, C.
+- Linguagens de programação: Python, Java, JavaScript, Node, Flask, C.
 
 ## Estatísticas do GitHub
 
