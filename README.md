@@ -9,8 +9,8 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical&hide_title=true&card_width=600) 
-![Linguagens do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoQuixaba&layout=compact&theme=radical&hide_title=true&card_width=600)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoQuixaba&show_icons=true&theme=radical&hide_title=true&card_width=300) 
+![Linguagens do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoQuixaba&layout=compact&theme=radical&hide_title=true&card_width=300)
 
 
 
