@@ -5,6 +5,12 @@
 
 ---
 
+### Contato
+
+- 📧 Email: thigasquixaba@gmail.com
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -87,12 +93,3 @@
   />
 
 </p>
-
-<br>
-<br>
-
----
-
-### Contato
-
-- 📧 Email: thigasquixaba@gmail.com
