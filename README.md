@@ -93,6 +93,6 @@
 
 ---
 
-## Contato
+### Contato
 
 - 📧 Email: thigasquixaba@gmail.com
