@@ -3,13 +3,9 @@
 - 🎓 Estudante do segundo de informática para a internet no IFPI.
 - 💻 Atualmente aprendendo Python, JavaScript e Frameworks.
 
----
-
 ### Contato
 
 - 📧 Email: thigasquixaba@gmail.com
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -70,8 +66,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -91,4 +85,3 @@
   />
 
 </p>
-
