@@ -1,19 +1,19 @@
-### Sobre Mim
+### Sobre Mim:
 
 - 🎓 Estudante do segundo de informática para a internet no IFPI.
 - 💻 Atualmente aprendendo Python, JavaScript e Frameworks.
 
 <br>
 
-### Contato
+### Contato:
 
 - 📧 Email: thigasquixaba@gmail.com
 
 <br>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias:
 
-<br>
+<br><br>
 
 <img 
     align="left" 
@@ -74,7 +74,7 @@
 
 <br><br>
 
-### 📊 Estatísticas
+### 📊 Estatísticas:
 
 <p>
   <img 
@@ -90,5 +90,4 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoQuixaba&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
