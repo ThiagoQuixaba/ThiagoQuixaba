@@ -42,7 +42,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
-<img 
     align="left" 
     alt="Flask" 
     title="Flask"
