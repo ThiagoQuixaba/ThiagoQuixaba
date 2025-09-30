@@ -1,6 +1,6 @@
 ### Sobre Mim:
 
-- 🎓 Estudante do segundo de informática para a internet no IFPI.
+- 🎓 Estudante do terceiro ano de informática para a internet no IFPI.
 - 💻 Atualmente aprendendo Python, JavaScript e Frameworks.
 
 ### Contato:
