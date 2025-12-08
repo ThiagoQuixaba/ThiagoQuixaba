@@ -5,7 +5,7 @@
 
 ### Contato:
 
-- 📧 Email: thigasquixaba78@gmail.com
+- 📧 Email: thigasquixaba7@gmail.com
 
 ### 🤖 Linguagens e Tecnologias:
 
